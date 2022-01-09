@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"ream",
+        "salary":10
+    },
+    {
+        "id":2,
+        "name":"reamon",
+        "salary":14
+    },
+    {
+        "id":3,
+        "name":"reatry",
+        "salary":13
+    },
+    {
+        "id":4,
+        "name":"meta",
+        "salary":18
+    }
+]

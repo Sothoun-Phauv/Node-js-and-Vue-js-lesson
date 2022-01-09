@@ -1,0 +1,21 @@
+[
+    {
+        "id":1,
+        "name":"bopha",
+        "age":18,
+        "favorie":["fish","fruit","Reading"]
+    },
+    {
+        "id":1,
+        "name":"chanda",
+        "age":32,
+        "favorie":["fish","fruit"]
+    },
+    {
+        "id":2,
+        "name":"romdul",
+        "age":21,
+        "favorie":["writting","singing","Reading"]
+    }
+
+]

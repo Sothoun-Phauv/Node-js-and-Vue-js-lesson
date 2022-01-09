@@ -1,0 +1,17 @@
+body {
+    background: #eec;
+    font-family: sans-serif;
+}
+.container {
+    width: 80%;
+    margin: auto;
+}
+.box {
+    background: #fff;
+    padding: 10px;
+    margin: 15px 0;
+    line-height: 1.4;
+}
+p::first-letter {
+    font-size: 30px;
+}

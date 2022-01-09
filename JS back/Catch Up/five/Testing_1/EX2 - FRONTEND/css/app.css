@@ -1,0 +1,15 @@
+body {
+    background: #eec;
+    font-family: sans-serif;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+h1 {
+    font-size: 200px;
+}
+label {
+    cursor: pointer;
+}

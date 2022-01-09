@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Rady",
+    "age": 56,
+    "nationality": "Khmer",
+    "hobbies": ["piano", "football", "volleyball"]
+  },
+  {
+    "id": 2,
+    "name": "Ronan",
+    "age": 40,
+    "nationality": "French",
+    "hobbies": ["reading", "swimming", "football"]
+  },
+  {
+    "id": 3,
+    "name": "Channak",
+    "age": 17,
+    "nationality": "Thai",
+    "hobbies": ["football"]
+  },
+  {
+    "id": 4,
+    "name": "Doudou",
+    "age": 14,
+    "nationality": "French",
+    "hobbies": ["football", "pingpong"]
+  },
+  {
+    "id": 5,
+    "name": "Clement",
+    "age": 7,
+    "nationality": "French",
+    "hobbies": ["eat", "sleep"]
+  }
+]

@@ -1,0 +1,59 @@
+body {
+    background: #eec;
+    font-family: sans-serif;
+}
+.container {
+    width: 70%;
+    margin: auto;
+}
+
+.card {
+    display: flex;
+    width: 60%;
+    margin: auto;
+    background: #fff;
+    border-radius: 45px 10px 10px 50px;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+}
+
+.card img {
+   width: 100px;
+}
+.text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+}
+.names, .title {
+    padding: 10px;
+    box-sizing: border-box;
+}
+.names p {
+    text-transform: uppercase;
+}
+.names p:nth-child(1) {
+    font-weight: bold;
+    color: #fdae05;
+}
+.title p {
+    background: #0a8ce2;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 40px;
+    color: #fff;
+    opacity: 0.8;
+    text-transform: uppercase;
+}
+
+.personalId span {
+    width: 15px;
+    height: 15px;
+    border: 2px solid teal;
+    border-radius: 50%;
+   padding: 10px;
+    color: #0a91ff;
+  font-weight: bold;
+}

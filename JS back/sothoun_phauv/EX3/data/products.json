@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "piano",
+    "price": 20
+  },
+  {
+    "id": 2,
+    "name": "flowers",
+    "price": 15
+  },
+  {
+    "id": 3,
+    "name": "guitar",
+    "price": 30
+  },
+  {
+    "id": 4,
+    "name": "computer",
+    "price": 80
+  },
+  {
+    "id": 5,
+    "name": "television",
+    "price": 75
+  }
+]

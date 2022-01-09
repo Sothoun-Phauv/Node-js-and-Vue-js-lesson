@@ -1,0 +1,14 @@
+{
+  "name": "studentattendence",
+  "version": "1.0.0",
+  "description": "project for student",
+  "main": "app.js",
+  "scripts": {
+    "appStart": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

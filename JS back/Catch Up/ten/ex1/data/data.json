@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "rady",
+        "age": 26,
+        "province": "BMC"
+    },
+    {
+        "id": 2,
+        "name": "kanha",
+        "age": 22,
+        "province": "KPC"
+    },
+    {
+        "id": 3,
+        "name": "bopha",
+        "age": 18,
+        "province": "SR"
+    }
+]
